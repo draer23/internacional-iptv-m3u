@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/peru.xml"
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/pasiones-us.png" group-title="🌍 Internacional",Pasiones [Opc.1] (1080p)
+http://181.224.255.210:8001/play/a0s0/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/pasiones-us.png" group-title="🌍 Internacional",Pasiones [Opc.2] (1080p)
+http://45.5.118.152:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/pasiones-us.png" group-title="🌍 Internacional",Pasiones [Opc.3] (1080p)
+http://45.5.116.228:8000/play/a0kq/index.m3u8
+
+
+
