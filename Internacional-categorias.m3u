@@ -1,0 +1,45 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/peru.xml"
+
+#EXTINF:-1 tvg-id="A&E.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/a&e-us.png" group-title="🎭 Entretenimiento",A&E (1080p) [Opc.1]
+http://8.243.126.131:8000/play/a0e1/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="A&E.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/a&e-us.png" group-title="🎭 Entretenimiento",A&E (720p) [Opc.1]
+http://8.243.126.131:8000/play/a06b/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="A&E.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/a&e-us.png" group-title="🎭 Entretenimiento",A&E (480p) [Opc.1]
+http://8.243.126.131:8000/play/a0g8/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="AMCSeries.us" tvg-name="AMC Series" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/amc-series-us.png" group-title="🎬 Cine y Series",AMC Series (480p) [Opc.1]
+http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="AMCSeries.us" tvg-name="AMC Series" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/amc-series-us.png" group-title="🎬 Cine y Series",AMC Series (480p) [Opc.2]
+http://181.119.84.106:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/lifetime-us.png" group-title="🎭 Entretenimiento",Lifetime (480p) [Opc.1]
+http://138.117.110.151:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/lifetime-us.png" group-title="🎭 Entretenimiento",Lifetime (480p) [Opc.2]
+http://45.186.105.214:8000/play/a0zy/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/lifetime-us.png" group-title="🎭 Entretenimiento",Lifetime (480p) [Opc.3]
+http://45.167.1.139:8000/play/a01a
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/pasiones-us.png" group-title="🎬 Cine y Series",Pasiones (1080p) [Opc.1]
+http://181.224.255.210:8001/play/a0s0/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/pasiones-us.png" group-title="🎬 Cine y Series",Pasiones (1080p) [Opc.2]
+http://45.5.118.152:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacional-iptv-logos-550x550px/main/pasiones-us.png" group-title="🎬 Cine y Series",Pasiones (1080p) [Opc.3]
+http://45.5.116.228:8000/play/a0kq/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
