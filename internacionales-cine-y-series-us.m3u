@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AMCSeries.us" tvg-name="AMC Series" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/amc-series-us.png" group-title="🎬 Cine y Series",AMC Series (480p) [Opc.1]
+http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="AMCSeries.us" tvg-name="AMC Series" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/amc-series-us.png" group-title="🎬 Cine y Series",AMC Series (480p) [Opc.2]
+http://181.119.84.106:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/axn-us.png" group-title="🎬 Cine y Series",AXN (1080p) [Opc.1]
+http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/axn-us.png" group-title="🎬 Cine y Series",AXN (1080p) [Opc.2]
+http://181.78.67.171:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/axn-us.png" group-title="🎬 Cine y Series",AXN (1080p) [Opc.3]
+http://45.5.116.228:8000/play/a0iy/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/pasiones-us.png" group-title="🎬 Cine y Series",Pasiones (1080p) [Opc.1]
+http://181.224.255.210:8001/play/a0s0/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/pasiones-us.png" group-title="🎬 Cine y Series",Pasiones (1080p) [Opc.2]
+http://45.5.118.152:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/pasiones-us.png" group-title="🎬 Cine y Series",Pasiones (1080p) [Opc.3]
+http://45.5.116.228:8000/play/a0kq/index.m3u8
+
+#EXTINF:-1 tvg-id="STARChannel.us" tvg-name="STAR Channel" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/star-channel-us.png" group-title="🎬 Cine y Series",STAR Channel (1080p) [Opc.1]
+http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="STARChannel.us" tvg-name="STAR Channel" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/star-channel-us.png" group-title="🎬 Cine y Series",STAR Channel (480p) [Opc.2]
+http://205.235.6.29:8000/play/a0x7/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="STARChannel.us" tvg-name="STAR Channel" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/star-channel-us.png" group-title="🎬 Cine y Series",STAR Channel (480p) [Opc.3]
+http://205.235.6.29:8000/play/a108/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StudioUniversal.us" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/studio-universal-us.png" group-title="🎬 Cine y Series",Studio Universal (1080p) [Opc.1]
+http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StudioUniversal.us" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/studio-universal-us.png" group-title="🎬 Cine y Series",Studio Universal (1080p) [Opc.2]
+http://186.148.196.100:8000/play/a01t
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/tnt-novelas-us.png" group-title="🎬 Cine y Series",TNT Novelas (1080p) [Opc.1]
+http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/tnt-novelas-us.png" group-title="🎬 Cine y Series",TNT Novelas (480p) [Opc.2]
+http://186.148.182.83:8000/play/a096/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeries.us" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/tnt-series-us.png" group-title="🎬 Cine y Series",TNT Series (1080p) [Opc.1]
+http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="TNTSeries.us" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/tnt-series-us.png" group-title="🎬 Cine y Series",TNT Series (1080p) [Opc.2]
+http://186.148.175.138:8000/play/a060
+
+#EXTINF:-1 tvg-id="TNTSeries.us" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/tnt-series-us.png" group-title="🎬 Cine y Series",TNT Series (720p) [Opc.3]
+http://186.33.26.18:8000/play/a0l8/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalPremiere.us" tvg-name="Universal Premiere" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-premiere-us.png" group-title="🎬 Cine y Series",Universal Premiere (1080p) [Opc.1]
+http://190.61.101.11:7050/play/a06o/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="UniversalPremiere.us" tvg-name="Universal Premiere" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-premiere-us.png" group-title="🎬 Cine y Series",Universal Premiere (1080p) [Opc.2]
+http://186.33.0.57:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalPremiere.us" tvg-name="Universal Premiere" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-premiere-us.png" group-title="🎬 Cine y Series",Universal Premiere (480p) [Opc.3]
+http://186.148.163.17:8000/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCinema.us" tvg-name="Universal Cinema" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-cinema-us.png" group-title="🎬 Cine y Series",Universal Cinema (1080p) [Opc.1]
+http://181.78.50.91:8000/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCinema.us" tvg-name="Universal Cinema" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-cinema-us.png" group-title="🎬 Cine y Series",Universal Cinema (1080p) [Opc.2]
+http://45.228.234.62:8000/play/a07c/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCinema.us" tvg-name="Universal Cinema" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-cinema-us.png" group-title="🎬 Cine y Series",Universal Cinema (1080p) [Opc.3]
+http://186.33.0.57:8000/play/a05x/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.us" tvg-name="Universal Crime" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-crime-us.png" group-title="🎬 Cine y Series",Universal Crime (1080p) [Opc.1]
+http://45.228.234.62:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.us" tvg-name="Universal Crime" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-crime-us.png" group-title="🎬 Cine y Series",Universal Crime (1080p) [Opc.2]
+http://181.78.50.91:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.us" tvg-name="Universal Crime" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-crime-us.png" group-title="🎬 Cine y Series",Universal Crime (1080p) [Opc.3]
+http://45.5.118.188:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.us" tvg-name="Universal TV" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-tv-us.png" group-title="🎬 Cine y Series",Universal TV (1080p) [Opc.1]
+http://186.148.163.17:8000/play/a08j/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.us" tvg-name="Universal TV" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-tv-us.png" group-title="🎬 Cine y Series",Universal TV (1080p) [Opc.2]
+http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="UniversalTV.us" tvg-name="Universal TV" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/universal-tv-us.png" group-title="🎬 Cine y Series",Universal TV (480p) [Opc.3]
+http://186.148.163.17:8000/play/a03b/index.m3u
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/warner-channel-us.png" group-title="🎬 Cine y Series",Warner Channel (1080p) [Opc.1]
+http://181.79.86.130:8000/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/warner-channel-us.png" group-title="🎬 Cine y Series",Warner Channel (1080p) [Opc.2]
+http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/warner-channel-us.png" group-title="🎬 Cine y Series",Warner Channel (480p) [Opc.3]
+http://45.5.116.228:8000/play/a07j/index.m3u8
